@@ -1,0 +1,10 @@
+version: '3'
+services:
+  alerter:
+    container_name: alerter
+    image: "anmcarrow/alerter:latest"
+    environment:
+      - TOKEN="254292490:AAFmMReKBmI5sIZmfs-buYYTVkR8LkctVjg"
+      - CHATID="44699412"
+      - URL="https://mcrrw.me/"
+      - PROVESTRING="doctype html"
