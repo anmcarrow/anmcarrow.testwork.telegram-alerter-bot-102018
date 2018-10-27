@@ -69,4 +69,4 @@ and so on.
 
 Feel free to use.
 
-Licensed on MIT, [anmcarrow](mailto:mb@mcrrw.me)
+Licensed under the MIT, [anmcarrow](mailto:mb@mcrrw.me)
