@@ -2,7 +2,7 @@ version: '3'
 services:
   alerter:
     container_name: alerter
-    image: "anmcarrow/alerter:latest"
+    image: "anmcarrow/alerter"
     environment:
       - TOKEN="254292490:AAFmMReKBmI5sIZmfs-buYYTVkR8LkctVjg"
       - CHATID="44699412"
