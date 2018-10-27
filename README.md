@@ -13,7 +13,7 @@ Telegram messsenger chat.
 List of content
 ---------------
 
-- alerter.py — main script;
+- alerter.py — main alerting script;
 - alerter.yml — default configuration file;
 - build.sh — script for the Docker image build and publish;
 - docker-compose.yml — Docker-compose manifest;
