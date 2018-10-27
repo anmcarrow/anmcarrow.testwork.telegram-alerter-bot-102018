@@ -39,6 +39,7 @@ You can just run it from CLI:
 Requirements
 ------------
 - Python 2
+- python-yaml
 - python-requests
 
 Docker-based setup and run
