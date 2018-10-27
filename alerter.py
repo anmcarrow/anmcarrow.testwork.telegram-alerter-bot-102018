@@ -33,7 +33,7 @@ class MonitoringBot(object):
         :type str_target: string
         """
 #        self.url_api = 'https://api.telegram.org/bot{0}/'.format(token)
-        self.url_api = 'http://tapi.mcrrw.me/bot{0}/'.format(token)
+        self.url_api = TELEGRAM_API_URL + '{0}/'.format(token)
         self.chat_id = chat_id
         self.url = url
         self.str_target = str_target
