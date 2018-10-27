@@ -68,7 +68,7 @@ Credits and notes
 This code is based on the similiar 
 [Stempher](https://github.com/stempher/monitoring_bot) repo.
 
-I've also add some minor changes: UTF-8 prove-strings support,
+I've also added some minor changes: UTF-8 prove-strings support,
 parametrized Telegram API support (very useful in case of API-proxies)
 and so on.
 
