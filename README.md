@@ -55,6 +55,10 @@ docker run -d anmcarrow/alerter
 ```
 
 ```
+docker run -d -e TOKEN="<your bot's token>" -e CHATID="<your chat ID>" -e URL="<your target web page>" -e PROVESTRING="<the string what you want to see on the healthy webpage>" anmcarrow/alerter
+```
+
+```
 docker-compose up -d
 ```
 
