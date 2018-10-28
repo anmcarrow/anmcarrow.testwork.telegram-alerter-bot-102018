@@ -8,6 +8,7 @@ python:
 install:
   - pip install pylint
   - pip install requests
+  - pip install pyyaml
   
 script:
   - pylint ./alerter.py
