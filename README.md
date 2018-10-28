@@ -1,3 +1,5 @@
+![Build Status](https://api.travis-ci.org/anmcarrow/anmcarrow.testwork.telegram-alerter-script-102018.svg?branch=master)
+
 There is just a simple Telegram web-monitor bot 
 (`alerter.py` Python script).
 
